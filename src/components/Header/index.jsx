@@ -14,7 +14,7 @@ const Header = () => {
           Let the best win <LuMedal />
           </h3>
         </div>
-        <h1 className="text-[20px] text-white font-[700]">Teacher 'Miss Kunduz'</h1>
+        <h1 className="text-[20px] text-white font-[700]">"Kyaz Orozalievich"</h1>
       </div>
     </div>
   );
